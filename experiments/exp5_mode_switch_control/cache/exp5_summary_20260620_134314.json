@@ -1,0 +1,31 @@
+{
+  "timestamp": "20260620_134314",
+  "dataset": "GSM8K, n=400, seed=42",
+  "model": "google/gemma-2-2b",
+  "layer": 12,
+  "positions": [
+    "pos_a",
+    "pos_b"
+  ],
+  "results": {
+    "pos_a": {
+      "mode_switch_auroc_mean": 1.0,
+      "mode_switch_auroc_std": 0.0,
+      "exp1_cot_auroc": 0.7695074265165729,
+      "pct_of_exp1_signal": 185.52364454760334
+    },
+    "pos_b": {
+      "mode_switch_auroc_mean": 1.0,
+      "mode_switch_auroc_std": 0.0,
+      "exp1_cot_auroc": 0.6659584115071919,
+      "pct_of_exp1_signal": 301.28029996137445
+    }
+  },
+  "lr_hyperparams": {
+    "C": 0.1,
+    "cv_folds": 5,
+    "solver": "lbfgs"
+  },
+  "cache_dir": "/content/drive/MyDrive/experiments/exp5_mode_switch_control/backup/cache",
+  "figures_dir": "/content/drive/MyDrive/experiments/exp5_mode_switch_control/backup/figures"
+}

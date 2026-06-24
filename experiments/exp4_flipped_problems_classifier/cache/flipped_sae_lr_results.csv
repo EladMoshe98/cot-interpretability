@@ -1,0 +1,2 @@
+representation,position,layer,auroc,ci_lo,ci_hi,n_features
+SAE_features_16k,pos_a,12,1.0,1.0,1.0,16384

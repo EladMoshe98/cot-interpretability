@@ -1,0 +1,62 @@
+[
+  {
+    "row_id": 207,
+    "correct": true,
+    "nla_description": "Structured educational problem format: a math/physics problem with a solution, likely involving distance, rate, and time calculations.\n\nThe phrase \"Find the distance Alisa\" signals a specific numerical problem beginning, likely involving a distance or percentage calculation to determine how far Alisa travels.\n\nFinal token \"Alisa\" opens a problem statement or question (\"Calculate the distance Alisa\"), strongly expecting a noun phrase like \"walks\" or \"travels\" to specify the scenario about the first person. or \"ran\" or \"needs to cover\" or \"and Bob\" or \"covers in the first leg.\" or \"drives\" or \"has already run.\" or \"gets from.\"",
+    "problem": "Alisa biked 12 miles per hour for 4.5 hours. Stanley biked at 10 miles per hour for 2.5 hours. How many miles did Alisa and Stanley bike in total?"
+  },
+  {
+    "row_id": 37,
+    "correct": true,
+    "nla_description": "Educational math/algebra worksheet format with structured problem-solving context, implying a question about sharing apples among friends.\n\nThe phrase \"Number of apples Ben brought\" signals a first question or scenario, likely a specific example about a quantity or ratio of apples that Ben brought to the picnic.\n\nFinal token \"The apples Ben brought\" opens a structured question or scenario label (\"Number of apples Ben brought\"), likely beginning a numbered or bulleted question about the initial distribution, possibly \" =...\" or \"to the store\" or \"home\" or \"up\" or \" = X\" or \"his share\" or \"and Sarah's\" or \"or half =...\" or \"from the.\"",
+    "problem": "Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do"
+  },
+  {
+    "row_id": 16,
+    "correct": true,
+    "nla_description": "Structured educational format: a math problem explaining percentage calculations, establishing a pedagogical pattern of analyzing fees/costs.\n\nThe phrase \"The\" signals a concrete numerical example or scenario, likely a specific problem about a fee or commission, given the example of a rental fee.\n\nFinal token \"The\" opens a new sentence introducing a specific numerical scenario (\"The fee is $10... The\"), strongly expecting a noun phrase like \"broker charges a flat fee\" or \"travel agency charges...\" or \"fee for the tutoring is...\" or \"broker charges 15%.\" or \"example shows...\" or \"storage fee is $X per week.\" or \"insurance company pays a surcharge.\" or.\"",
+    "problem": "Stephen placed an online order for groceries.  His final bill came to $40.00.  Because this was through a delivery vendor, they tacked on a 25% fee to his final total and charged him $3.00 in delivery"
+  },
+  {
+    "row_id": 340,
+    "correct": true,
+    "nla_description": "Structured math problem format: a textbook/educational solution pattern with a quantitative puzzle about delivery times and trucks.\n\nThe phrase \"Find the number of trucks\" signals a specific problem statement, likely a numerical or algebraic problem about trucks, implying a solution involving a given number or ratio.\n\nFinal token \"number of trucks\" begins a problem-description phrase (\"Number of trucks\"), likely starting a structured solution or question, possibly \"needed\" or \"in the first row\" or \"that carry coal\" or \"for the second type\" or \"required for the parade.\" or \"at the garage\" or \"used by the blue company.\" or \"with red paint\" or \"per hour.\"",
+    "problem": "Mr Hezekiah had 20 trucks from his store supplying fertiliser to different farmers in his hometown dispatched for delivery on a particular day. Each truck was carrying 20 tons of fertiliser packed in "
+  },
+  {
+    "row_id": 62,
+    "correct": true,
+    "nla_description": "Structured educational answer format: a math/accounting problem explaining a price calculation, likely a cost or percentage problem.\n\nThe phrase \"Calculate the total cost per\" signals a pedagogical pattern, likely a list or breakdown of a calculation, establishing a structured solution to a pricing problem involving items.\n\nFinal token \"total cost per\" begins a noun phrase or variable definition (\"Cost per\"), strongly expecting a noun like \"week,\" \"month,\" or \"unit\" to specify a calculation or formula about cost of tickets or supplies. or \"box of cookies\" or \"hour for the first type\" or \"shirt for each guest.\" or \"year for combined items.\" or \"dozen, including labor.\"",
+    "problem": "A trader buys some bags of wheat from a farmer at a rate of $20 per bag. If it costs $2 to transport each bag from the farm to the warehouse, and the trader made a total profit of $400 after selling a"
+  },
+  {
+    "row_id": 196,
+    "correct": true,
+    "nla_description": "Structured problem-solving context: a math/algebra problem about finding a rate or average, likely involving three people or speeds.\n\nThe phrase \"Find the third typing speed\" signals a specific example or scenario beginning, establishing a concrete numerical task involving the three typing speeds given.\n\nFinal token \"first typing speed\" opens a new question or task description (\"Find the third typing speed\"), strongly expecting a structured solution or scenario, likely \"1\" or \"rate\" or \"of the two\" to specify the first example. or \"or percentage\" or \"by dividing...\" or \"value:\" or \"of Susan\" or \"in the second scenario.\" or \"threshold (in WPM).\"",
+    "problem": "Jared is trying to increase his typing speed. He starts with 47 words per minute (WPM). After some lessons the next time he tests his typing speed it has increased to 52 WPM. If he continues to increa"
+  },
+  {
+    "row_id": 81,
+    "correct": true,
+    "nla_description": "Educational/mathematical worksheet format: a structured problem with a numerical solution, likely involving a savings or multiplication calculation.\n\nThe phrase \"How many times did Anne\" signals a problem or task beginning, likely a specific number of days or weeks to calculate how frequently Anne runs or reads.\n\nFinal token \"Anne\" opens a question or scenario (\"How many times Anne\"), strongly expecting a noun phrase like \"reads\" or \"can run in a week\" or \"doubled her money\" to specify a numerical scenario or task. or \"visited the shop\" or \"gets her share before Sarah.\" or \"must be twice the rate of Beth.\" or \"walked each day.\" or.\"",
+    "problem": "Shelly's 3 kids spent all day at the water park.  Mitchel went down the water slide 30 times.  Anne went down the slide 30% less than Mitchel and Robert went down 4 times as much as Anne.  How many ti"
+  },
+  {
+    "row_id": 127,
+    "correct": true,
+    "nla_description": "Structured educational answer format: a math/algebra problem solution pattern, likely a worksheet or textbook answer about percentage calculations.\n\nThe phrase \"Find how much more\" signals a problem or constraint about a specific numerical comparison, likely a word problem involving a savings goal or ratio of two amounts.\n\nFinal token \"How much more\" begins a quantitative or analytical statement (\"Find how much more\"), likely starting a specific example or clue about the extra amount, possibly \"Sarah spent in the second week\" or \"the bucket weighs than the first.\" or \"money Lisa needs\" or \"time she drove in the second shift\" or \"the ratio was per gallon.\" or \"Jane gets per hour.\"",
+    "problem": "Mark has $50 in his bank account. He earns $10 per day at his work. If he wants to buy a bike that costs $300, how many days does Mark have to save his money?"
+  },
+  {
+    "row_id": 163,
+    "correct": true,
+    "nla_description": "Structured educational/algebraic format: a formatted answer with a pattern of solving problems, likely a math worksheet or puzzle.\n\nThe phrase \"3 times the\" begins a mathematical expression or equation description, signaling a problem involving three quantities or variables, likely a list or equation involving the three stores.\n\nFinal token \"3 times the\" opens a noun phrase describing a mathematical operation or constraint (\"3 times the\"), strongly expecting a noun like \"number of apples\" or \"second number\" or \"value of x\" to specify a given quantity or inequality. or \"first number\" or \"radius of the triangle.\" or \"three-digit number\" or \"average of the two.\" or.\"",
+    "problem": "Jillian's handbag cost $20 less than 3 times as much as her shoes cost. If her shoes cost $80, how much did her bag cost?"
+  },
+  {
+    "row_id": 136,
+    "correct": true,
+    "nla_description": "Structured educational format: a math/algebra textbook explaining a price calculation, likely a word problem involving percentage discounts or purchases.\n\nThe phrase \"The cost of the\" signals a specific numerical example or problem scenario, establishing a concrete calculation involving items or purchases at a bookstore.\n\nFinal token \"of the\" begins a noun phrase describing a specific item or cost component (\"The price of the\"), strongly expecting a noun like \"paint,\" \"books,\" or \"first three bags\" to introduce a concrete example of the cost of the damaged/extra tiles. or \"apples\" or \"carpet\" or \"first shipment\" or \"additional items\" or \"regular rate plus...\" or \"paint job.\"",
+    "problem": "Tim decides to light off some fireworks for the fourth of July.  He buys a package of fireworks worth $400 and another pack worth twice that much.  He gets a 20% discount on them.  He also buys a fina"
+  }
+]

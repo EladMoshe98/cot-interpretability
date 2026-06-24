@@ -1,0 +1,51 @@
+correct,problem,gold_answer,pred_answer,nla_description
+True,Alisa biked 12 miles per hour for 4.5 hours. Stanley biked at 10 miles per hour for 2.5 hours. How many miles did Alisa and Stanley bike in total?,79,79.0,"Structured educational problem format: a math/physics problem with a solution, likely involving distance, rate, and time calculations.
+
+The phrase ""Find the distance Alisa"" signals a specific numerical problem beginning, likely involving a distance or percentage calculation to determine how far Alisa travels.
+
+Final token ""Alisa"" opens a problem statement or question (""Calculate the distance Alisa""), strongly expecting a noun phrase like ""walks"" or ""travels"" to specify the scenario about the first person. or ""ran"" or ""needs to cover"" or ""and Bob"" or ""covers in the first leg."" or ""drives"" or ""has already run."" or ""gets from."""
+True,"Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do",27,27.0,"Educational math/algebra worksheet format with structured problem-solving context, implying a question about sharing apples among friends.
+
+The phrase ""Number of apples Ben brought"" signals a first question or scenario, likely a specific example about a quantity or ratio of apples that Ben brought to the picnic.
+
+Final token ""The apples Ben brought"" opens a structured question or scenario label (""Number of apples Ben brought""), likely beginning a numbered or bulleted question about the initial distribution, possibly "" =..."" or ""to the store"" or ""home"" or ""up"" or "" = X"" or ""his share"" or ""and Sarah's"" or ""or half =..."" or ""from the."""
+True,"Stephen placed an online order for groceries.  His final bill came to $40.00.  Because this was through a delivery vendor, they tacked on a 25% fee to his final total and charged him $3.00 in delivery",57,$57.00,"Structured educational format: a math problem explaining percentage calculations, establishing a pedagogical pattern of analyzing fees/costs.
+
+The phrase ""The"" signals a concrete numerical example or scenario, likely a specific problem about a fee or commission, given the example of a rental fee.
+
+Final token ""The"" opens a new sentence introducing a specific numerical scenario (""The fee is $10... The""), strongly expecting a noun phrase like ""broker charges a flat fee"" or ""travel agency charges..."" or ""fee for the tutoring is..."" or ""broker charges 15%."" or ""example shows..."" or ""storage fee is $X per week."" or ""insurance company pays a surcharge."" or."""
+True,Mr Hezekiah had 20 trucks from his store supplying fertiliser to different farmers in his hometown dispatched for delivery on a particular day. Each truck was carrying 20 tons of fertiliser packed in ,300,300.0,"Structured math problem format: a textbook/educational solution pattern with a quantitative puzzle about delivery times and trucks.
+
+The phrase ""Find the number of trucks"" signals a specific problem statement, likely a numerical or algebraic problem about trucks, implying a solution involving a given number or ratio.
+
+Final token ""number of trucks"" begins a problem-description phrase (""Number of trucks""), likely starting a structured solution or question, possibly ""needed"" or ""in the first row"" or ""that carry coal"" or ""for the second type"" or ""required for the parade."" or ""at the garage"" or ""used by the blue company."" or ""with red paint"" or ""per hour."""
+True,"A trader buys some bags of wheat from a farmer at a rate of $20 per bag. If it costs $2 to transport each bag from the farm to the warehouse, and the trader made a total profit of $400 after selling a",50,50.0,"Structured educational answer format: a math/accounting problem explaining a price calculation, likely a cost or percentage problem.
+
+The phrase ""Calculate the total cost per"" signals a pedagogical pattern, likely a list or breakdown of a calculation, establishing a structured solution to a pricing problem involving items.
+
+Final token ""total cost per"" begins a noun phrase or variable definition (""Cost per""), strongly expecting a noun like ""week,"" ""month,"" or ""unit"" to specify a calculation or formula about cost of tickets or supplies. or ""box of cookies"" or ""hour for the first type"" or ""shirt for each guest."" or ""year for combined items."" or ""dozen, including labor."""
+False,The Hortex company produces bottled carrot juices. Every day it can produce 4200 bottles of these juices. Each juice can cover 20% of 1 person'ts daily energy demand. How many more bottles of juices w,7300,3100.0,"Structured pedagogical format: a technical answer explaining a power/energy calculation, likely a problem involving electricity supply and heating systems.
+
+The phrase ""Calculate total energy demand"" signals a numbered step or scenario beginning, establishing a structured analytical framework for a load-supply scenario.
+
+Final token ""overall energy demand"" opens a formal problem setup (""Start with the overall energy demand""), likely beginning a numbered step or list, possibly ""of the building"" or ""per day"" or ""for the week."" or ""or supply."" or ""of the city:"" or ""at peak time."" or ""for the two appliances."" or ""in the house."" or ""demand/percentage."" or ""from."""
+False,Lorraine and Colleen are trading stickers for buttons. Each large sticker is worth a large button or three small buttons. A small sticker is worth one small button. A large button is worth three small,89,9.0,"Structured analytical/educational format: a mathematical problem about trading cards, likely a scenario involving exchange rates or quantities.
+
+The phrase ""Number of Comic Books Traded"" signals a specific scenario or constraint, likely a numerical answer or description of the first exchange of cards between children.
+
+Final token ""Stamps Traded"" opens a structured question or label (""Number of Bad Stamps Traded""), strongly expecting a noun phrase or continuation like ""for the First"" or ""by Alice"" or ""in"" to specify the trade or exchange scenario. or ""for Coins"" or ""for Alice's:..."" or ""up"" or ""for the swap"" or ""for the first exchange."""
+False,"Michael is replacing the carpet in his bedroom.  The new carpet he's chosen costs $12 per square foot, plus $2 per square foot for padding underneath.  His contractor charges $4 per square foot to rem",11232,$4536,"Structured educational format: a math problem/solution pattern with a geometric scenario about area calculations, likely involving a garden or room.
+
+The phrase ""Find the area of the"" signals a problem statement, establishing a specific geometric scenario about a composite shape or percentage of paint.
+
+Final token ""of the"" begins a noun phrase describing a shape or object (""Area of the...""), strongly expecting a noun like ""square garden,"" ""rectangle,"" or ""circle"" to specify the figure being analyzed. or ""triangle"" or ""large rectangle"" or ""field"" or ""house"" or ""carpet/wall."" or ""square and circle"" or ""three triangles."" or ""given figure."""
+False,"Erika is saving for a new laptop. The laptop she wants costs $600. The sales assistant told her that if she traded in her old laptop, the price of the new one would be reduced by $200. She thinks this",120,220.0,"Structured educational format: a math/percentage problem with a solution pattern, establishing a price calculation scenario involving discounts and sales.
+
+The phrase ""Find the reduced price of"" signals a specific numerical answer or example, likely a concrete price calculation or discount scenario to determine the price of a discounted item.
+
+Final token ""price of"" begins a noun phrase naming a specific item or scenario (""Find the reduced price of""), strongly expecting a noun like ""the sweater"" or ""the first pair"" or ""the television"" to specify a sale or discount item. or ""the second shirt"" or ""the discounted chair"" or ""item A after 15% discount."" or ""shoes during."""
+False,"At Allan's house, there is twice as much corn as cannolis. He has a total of 40 cannolis in his house. Allan bought 60 more cannolis at the store and 40 fewer corns than the number of cannolis. Find t",200,240.0,"Structured educational format: a math problem explaining fractions/percentages, signaling a solution or answer to a word problem.
+
+The phrase ""1. Initial amount of corn:"" introduces a starting scenario, likely a numerical setup or first step in a problem involving mixed quantities of grain.
+
+Final token ""Initial amount of corn:**"" opens a structured solution or example step (""1. Initial amount of corn:""), strongly expecting a numbered list or concrete scenario like ""The farmer has 120 pounds"" or ""Sarah starts with..."" or ""The farm has X pounds."" or ""Mr. Jones has..."" or ""The truck has 6 boxes."" or ""Calculate the half."" or ""Jane."""

@@ -1,0 +1,47 @@
+[
+  {
+    "row_id": 360,
+    "correct": false,
+    "gold_answer": "7300",
+    "pred_answer": "3100.0",
+    "problem": "The Hortex company produces bottled carrot juices. Every day it can produce 4200 bottles of these juices. Each juice can cover 20% of 1 person'ts daily energy demand. How many more bottles of juices w",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n**1. Calculate the total energy demand of 2300 people:**\n\n* Assume each person's daily energy demand is 1 unit (or 100%).\n* Total energy demand for 2300 people: 2300 people * 1 unit/person = 2300 units\n\n**2. Calculate the total energy provided by the c",
+    "nla_description": "Structured pedagogical format: a technical answer explaining a power/energy calculation, likely a problem involving electricity supply and heating systems.\n\nThe phrase \"Calculate total energy demand\" signals a numbered step or scenario beginning, establishing a structured analytical framework for a load-supply scenario.\n\nFinal token \"overall energy demand\" opens a formal problem setup (\"Start with the overall energy demand\"), likely beginning a numbered step or list, possibly \"of the building\" or \"per day\" or \"for the week.\" or \"or supply.\" or \"of the city:\" or \"at peak time.\" or \"for the two appliances.\" or \"in the house.\" or \"demand/percentage.\" or \"from.\""
+  },
+  {
+    "row_id": 248,
+    "correct": false,
+    "gold_answer": "89",
+    "pred_answer": "9.0",
+    "problem": "Lorraine and Colleen are trading stickers for buttons. Each large sticker is worth a large button or three small buttons. A small sticker is worth one small button. A large button is worth three small",
+    "response_text": "\nHere's how we can solve this problem step-by-step:\n\n**1. Small Stickers Traded:**\n\n* Lorraine trades 90% of her 30 small stickers: 0.90 * 30 = 27 small stickers\n\n**2. Large Buttons from Small Stickers:**\n\n* A large button is worth 3 small stickers, so 27 small stickers get her: 27 / 3 = 9 large but",
+    "nla_description": "Structured analytical/educational format: a mathematical problem about trading cards, likely a scenario involving exchange rates or quantities.\n\nThe phrase \"Number of Comic Books Traded\" signals a specific scenario or constraint, likely a numerical answer or description of the first exchange of cards between children.\n\nFinal token \"Stamps Traded\" opens a structured question or label (\"Number of Bad Stamps Traded\"), strongly expecting a noun phrase or continuation like \"for the First\" or \"by Alice\" or \"in\" to specify the trade or exchange scenario. or \"for Coins\" or \"for Alice's:...\" or \"up\" or \"for the swap\" or \"for the first exchange.\""
+  },
+  {
+    "row_id": 192,
+    "correct": false,
+    "gold_answer": "11232",
+    "pred_answer": "$4536",
+    "problem": "Michael is replacing the carpet in his bedroom.\u00a0 The new carpet he's chosen costs $12 per square\u00a0foot, plus $2 per square foot for padding underneath.\u00a0 His contractor charges $4 per square foot to rem",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n1. **Calculate the area of the bedroom:**\n   Area = length x width\n   Area = 18 feet x 12 feet\n   Area = 216 square feet\n\n2. **Calculate the cost of the new carpet:**\n   Cost per square foot = $12\n   Total carpet cost = Area x Cost per square foot\n   T",
+    "nla_description": "Structured educational format: a math problem/solution pattern with a geometric scenario about area calculations, likely involving a garden or room.\n\nThe phrase \"Find the area of the\" signals a problem statement, establishing a specific geometric scenario about a composite shape or percentage of paint.\n\nFinal token \"of the\" begins a noun phrase describing a shape or object (\"Area of the...\"), strongly expecting a noun like \"square garden,\" \"rectangle,\" or \"circle\" to specify the figure being analyzed. or \"triangle\" or \"large rectangle\" or \"field\" or \"house\" or \"carpet/wall.\" or \"square and circle\" or \"three triangles.\" or \"given figure.\""
+  },
+  {
+    "row_id": 281,
+    "correct": false,
+    "gold_answer": "120",
+    "pred_answer": "220.0",
+    "problem": "Erika is saving for a new laptop. The laptop she wants costs $600. The sales assistant told her that if she traded in her old laptop, the price of the new one would be reduced by $200. She thinks this",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n1. **Calculate the reduced price of the laptop:**\n   Original price: $600\n   Trade-in reduction: $200\n   Reduced price: $600 - $200 = $400\n\n2. **Calculate Erika's total money from sources other than her purse:**\n   Part-time job earnings: $150\n   Mom's",
+    "nla_description": "Structured educational format: a math/percentage problem with a solution pattern, establishing a price calculation scenario involving discounts and sales.\n\nThe phrase \"Find the reduced price of\" signals a specific numerical answer or example, likely a concrete price calculation or discount scenario to determine the price of a discounted item.\n\nFinal token \"price of\" begins a noun phrase naming a specific item or scenario (\"Find the reduced price of\"), strongly expecting a noun like \"the sweater\" or \"the first pair\" or \"the television\" to specify a sale or discount item. or \"the second shirt\" or \"the discounted chair\" or \"item A after 15% discount.\" or \"shoes during.\""
+  },
+  {
+    "row_id": 133,
+    "correct": false,
+    "gold_answer": "200",
+    "pred_answer": "240.0",
+    "problem": "At Allan's house, there is twice as much corn as cannolis. He has a total of 40 cannolis in his house. Allan bought 60 more cannolis at the store and 40 fewer corns than the number of cannolis. Find t",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n1. **Initial amount of corn:** Allan has twice as much corn as cannolis, and he initially has 40 cannolis. So, he has 2 * 40 = 80 corns.\n\n2. **Cannolis after buying more:** Allan bought 60 more cannolis, so he now has 40 + 60 = 100 cannolis.\n\n3. **Corn",
+    "nla_description": "Structured educational format: a math problem explaining fractions/percentages, signaling a solution or answer to a word problem.\n\nThe phrase \"1. Initial amount of corn:\" introduces a starting scenario, likely a numerical setup or first step in a problem involving mixed quantities of grain.\n\nFinal token \"Initial amount of corn:**\" opens a structured solution or example step (\"1. Initial amount of corn:\"), strongly expecting a numbered list or concrete scenario like \"The farmer has 120 pounds\" or \"Sarah starts with...\" or \"The farm has X pounds.\" or \"Mr. Jones has...\" or \"The truck has 6 boxes.\" or \"Calculate the half.\" or \"Jane.\""
+  }
+]

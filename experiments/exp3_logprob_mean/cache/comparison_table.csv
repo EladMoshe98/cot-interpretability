@@ -1,0 +1,4 @@
+Condition,Accuracy,AUROC (mean_lp),Shuffled AUROC,N correct
+CoT,51.0%,0.6916,0.4577,204
+NoCoT,8.0%,0.7151,0.5809,32
+Δ (CoT−NoCoT),—,-0.0236,—,—

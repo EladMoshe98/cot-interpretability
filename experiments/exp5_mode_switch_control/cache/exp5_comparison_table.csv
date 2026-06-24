@@ -1,0 +1,3 @@
+Position,Exp1 CoT AUROC (real),Mode-switch AUROC (mean),Mode-switch Std,% of exp1 signal,Verdict
+pos_a,0.7695,1.0,0.0,185.5,CONFOUND (186%)
+pos_b,0.666,1.0,0.0,301.3,CONFOUND (301%)

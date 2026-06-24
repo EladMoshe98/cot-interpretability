@@ -1,0 +1,62 @@
+[
+  {
+    "row_id": 373,
+    "correct": true,
+    "nla_description": "Structured educational pattern: a math problem/solution format with a pedagogical example, likely a word problem involving arithmetic or geometric progression.\n\nThe phrase \"Find the number of fish\" introduces a specific numerical scenario, likely a concrete example of fish population or aquarium counts to establish a problem about the number of fish.\n\nFinal token \"number of fish\" begins a problem description or example (\"Calculate the number of fish\"), strongly expecting a noun phrase like \"in the tank\" or \"that ate...\" or \"in the first week\" or \"Maria\" or \"before the shark.\" or \"at the pond.\" or \"remaining after the first day.\" or \"goldfish/shark.\" or \".\"",
+    "problem": "There are 66 fish in the fish tank. One-third of the fish have red stripes, and 5/11 of the remaining fish have blue stripes. Altogether, how many fish have red stripes and blue stripes?"
+  },
+  {
+    "row_id": 43,
+    "correct": true,
+    "nla_description": "Structured educational/numerical pattern: a solution format with a pedagogical explanation, likely a math problem involving overtime calculations.\n\nThe phrase \"Calculate daily work hours:\" signals a structured solution step, establishing a numerical setup or calculation to find overtime hours.\n\nFinal token \"1. Calculate daily work hours:\" opens a concrete step or example in a solution, strongly expecting a numbered or bulleted step beginning, likely \"The employee works 6 days/week\" or \"The gardener works 8 hours per day\" to establish a simple arithmetic calculation. or \"Subtract the days off\" or \"Given the weekly rate is...\" or \"John has 5 shifts...\" or \"Calculate hours per day:.\"",
+    "problem": "Jordan plays video games for 2 hours every day. He also has a part-time job where he earns $10 an hour. How much money would Jordan earn in one week if he spent his video game time working instead?"
+  },
+  {
+    "row_id": 335,
+    "correct": true,
+    "nla_description": "Structured educational answer format: a formal, pedagogical response explaining probability/combinations, likely a math problem involving election outcomes.\n\nThe phrase \"Calculate the total number of\" signals a list or enumeration of solution methods, establishing a specific numerical example to analyze combinations or percentages of outcomes.\n\nFinal token \"the total number of\" begins a noun phrase describing a problem scenario (\"The total number of\"), strongly expecting a noun like \"students,\" \"balls,\" or \"items\" to specify a concrete scenario about distribution or selection. or \"tickets sold\" or \"animals in the group.\" or \"weeks/days\" or \"possible outcomes in the election.\" or \"shirts/pairs.\" or \"total.\"",
+    "problem": "A team of 4 painters worked on a mansion for 3/8ths of a day every day for 3 weeks. How many hours of work did each painter put in?"
+  },
+  {
+    "row_id": 59,
+    "correct": true,
+    "nla_description": "Structured analytical format: a mathematical/educational solution pattern, answering a time-calculation problem about work rates.\n\nThe phrase \"Calculate the total time for\" signals a specific problem or scenario beginning, likely analyzing a journey or task involving multiple segments or speeds.\n\nFinal token \"total time for\" opens a structured solution or list-based analysis (\"Calculate the total time for\"), strongly expecting a noun phrase like \"the round trip\" or \"the first leg\" or \"the car to travel.\" or \"the trip to the warehouse\" or \"both workers\" or \"the first shift\" or \"the direct flight.\" or \"Mary's activity.\" or \"average speed and return.\"",
+    "problem": "Two track teams are competing against each other in a 4 by 400 meter relay; a race where each competing team has four members that each run 400 meters, or one lap, around a standard track.  One of the"
+  },
+  {
+    "row_id": 147,
+    "correct": true,
+    "nla_description": "Structured educational answer format: a problem-solving/calculation task explaining temperature changes, likely a chemistry or baking problem.\n\nThe phrase \"1. Find the temperature increase from baking:\" signals a numbered step or first step in the solution, establishing a structured analytical approach to the problem.\n\nFinal token \"the baking heat:**\" opens a labeled step or initial observation (\"1. Temperature increase from baking:\"), strongly expecting a numbered list or specific calculation to begin, likely \"The cake increases by X degrees\" or \"The temperature difference is...\" or \"Calculate the heat added...\" or \"The cookie was baked at 180\u00b0F...\" or \"Given the oven...\" or \"Determine.\"",
+    "problem": "When Marcus wakes up, his house is 40 degrees. He spends 3 hours baking, and every hour the oven is on it raises the house's temperature by 5 degrees. Then Marcus opens a window for 30 minutes, and th"
+  },
+  {
+    "row_id": 326,
+    "correct": true,
+    "nla_description": "Wiki/guide format with structured sections, establishing a Minecraft mining/resource-extraction context about ore processing and mining mechanics.\n\nThe phrase \"A mine yields 100 ore with an iron\" signals a specific example or item description, likely a mining item or tool description about ore extraction in a primitive/medieval world.\n\nFinal token \"with an iron\" begins a noun phrase describing a mining resource or item (\"get ore with an iron\"), strongly expecting a noun like \"pickaxe\" or \"ore\" or \"shovel\" to specify a specific ore type or category. or \"helmet\" or \"pickaxe\" or \"furnace\" or \"ratio of 1:1.\"",
+    "problem": "One dwarf can mine 12 pounds of ore per day with his bare hands. He can mine twice as much with an iron pickaxe and 50% more with a steel pickaxe than with an iron pickaxe. How many pounds of ore can "
+  },
+  {
+    "row_id": 0,
+    "correct": true,
+    "nla_description": "Structured educational problem format: a math/logic puzzle with a scenario about farm animals, likely a sheep farm or wool production.\n\nThe phrase \"Number of Barbara's sheep\" signals a first scenario or example, establishing a specific numerical problem about sheep distribution or population counts.\n\nFinal token \"sheep\" begins a structured list or category label (\"Barbara's sheep\"), likely starting a numbered or bulleted scenario, possibly \"count\" or \"population\" or \"ratio\" to specify the initial scenario of sheep. or \"have:\" or \"production:\" or \"count vs. cows\" or \"percentage:\" or \"before sale\" or \"population doubles\" or \"were...\" or \".\"",
+    "problem": "Toulouse has twice as many sheep as Charleston. Charleston has 4 times as many sheep as Seattle. How many sheep do Toulouse, Charleston, and Seattle have together if Seattle has 20 sheep?"
+  },
+  {
+    "row_id": 298,
+    "correct": true,
+    "nla_description": "Structured problem format: a mathematical puzzle/word problem with a scenario about cookies, establishing a solution to sharing among three people.\n\nThe phrase \"after husband takes\" signals a specific scenario about the husband's portion, implying a calculation of remaining cookies after the brother takes his share.\n\nFinal token \"after husband takes\" opens a parenthetical clause defining the number of cookies the brother takes (\"Number after husband takes\"), immediately expecting a noun phrase like \"some\" or \"his share\" or \"some\" to specify the number he stole. or \"them\" or \"first\" or \"cookies\" or \"some\" or \"his:\" or \"1/3\" or \"them.\"",
+    "problem": "Susan made 100 cookies for Christmas and was going to equally divide them between her 6 nephews. Before Susan could package them, her husband snuck 4 cookies for himself. How many cookies will each of"
+  },
+  {
+    "row_id": 389,
+    "correct": true,
+    "nla_description": "Structured analytical/educational pattern: a problem-solving scenario about plant arrangement, likely a garden or plant list.\n\nThe phrase \"Plants needing a quarter cup\" signals a list or table beginning, establishing a specific example of the plants needing a given amount of fertilizer/water.\n\nFinal token \"a quarter cup\" opens a structured list or category label (\"Plants needing a quarter cup\"), immediately expecting a noun phrase like \"of soil\" or \"each\" to specify the plant category or measurement unit. or \"of fertilizer:\" or \"water each:\" or \"of soil each:\" or \"of mulch:\" or \"each: tomatoes, roses...\" or \"required:\" or \"of water:.\"",
+    "problem": "Crista's plants need to be watered every day. She has 20 plants. 4 of her plants need half of a cup of water. 8 plants need 1 cup of water. The rest need a quarter of a cup of water. How many cups of "
+  },
+  {
+    "row_id": 108,
+    "correct": true,
+    "nla_description": "Structured educational format: a formatted solution/problem set pattern, likely a math or business scenario involving income calculations.\n\nThe phrase \"Calculate daily income from\" signals a specific example or scenario beginning, establishing a numerical problem about earnings or income thresholds for a taxi driver.\n\nFinal token \"income from\" opens a noun phrase or scenario description (\"Extra income from\"), strongly expecting a noun like \"the coffee sales\" or \"the first job\" or \"books\" to specify a specific source or price of earnings. or \"the hourly rate\" or \"the parking cars\" or \"apples: regular tickets.\" or \"the first 10 lessons.\" or \"delivery fees.\" or \"each.\"",
+    "problem": "A factory used to make tractors, but now makes silos. When they made tractors, they sold 10 tractors a day and made $100 per tractor. Now, they sell 5 silos a day, and make $220 per silo. What percent"
+  }
+]

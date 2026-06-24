@@ -1,0 +1,62 @@
+[
+  {
+    "row_id": 180,
+    "correct": false,
+    "nla_description": "Educational grammar textbook format with structured examples, explaining arithmetic problems about class numbers in Singapore/India.\n\nThe phrase \"There were 20\" begins a numerical example or scenario, likely describing a group or class of students, establishing a mathematical calculation about the total number of children.\n\nFinal token \"There were 20\" opens a numerical example or sentence fragment (\"There were 20\"), strongly expecting a noun phrase like \"students,\" \"children,\" or \"total children\" to specify the number of participants or performers. or \"people in the show\" or \"students plus 10 more\" or \"children in the class, split into two groups.\" or \"total in.\"",
+    "problem": "Twenty kids went out on a school trip. In one of the several activities they participated in, they were divided into two equal groups of girls and boys and then went out for a scavenger hunt of seashe"
+  },
+  {
+    "row_id": 254,
+    "correct": false,
+    "nla_description": "Structured educational problem format: a math/Arabic textbook solution pattern, likely a word problem involving book quantities.\n\nThe phrase \"How many books Ahmed\" signals a specific scenario or question about a book exchange or donation, implying a numerical answer about a reading challenge or book distribution.\n\nFinal token \"Ahmed\" begins a noun phrase or question label (\"How many books Ahmed\"), strongly expecting a noun like \"bought\" or \"has\" to start a specific scenario about the number of books Ahmed gave away or read. or \"gave\" or \"read in one week\" or \"owns\" or \"has before the week.\" or \"borrowed\" or \"can buy.\" or \"already has.\"",
+    "problem": "In one hour, Ezra read twice as many books as Ahmed. Ezra has read 300 books this hour and decided to read 150 more. How many books have they read altogether?"
+  },
+  {
+    "row_id": 18,
+    "correct": false,
+    "nla_description": "Structured educational format: a mathematical/financial example establishing a pension calculation scenario, likely a worked solution to a retirement calculation.\n\nThe phrase \"Calculate the pension amount for\" signals a concrete example, promising specific numerical results for two components (years of service, age).\n\nFinal token \"pension for\" opens a specific example or breakdown scenario (\"Calculate the pension bonus for\"), immediately expecting a noun phrase like \"the first 15 years\" or \"each year\" or \"the five years\" to specify a concrete work period or scenario. or \"the regular period\" or \"each year completed\" or \"the 10 years\" or \"the first half, plus bonus.\"",
+    "problem": "If Marcy works for the same company for 40 years, she gets an annual pension of $50,000/year. Starting after 20 years, she becomes entitled to 5% of the value of the pension per year. If she quits aft"
+  },
+  {
+    "row_id": 61,
+    "correct": false,
+    "nla_description": "Structured solution format: a mathematical problem with a formula/calculation pattern, establishing a financial calculation for compound interest or loan amounts.\n\nThe phrase \"Calculate the interest\" signals a numbered step or step-by-step calculation, likely beginning a specific calculation to find the interest earned or principal amount.\n\nFinal token \"calculate the interest\" opens a structured step or variable definition (\"Calculate the interest\"), strongly expecting a noun phrase like \"for one year\" or \"earned on the savings\" or \"for the year\" or \"amount for each year\" to specify the compound interest or loan calculation. or \"rate\" or \"on the loan\" or \"paid in half year.\" or \".\"",
+    "problem": "Mandy owes Benedict $100. They agreed to have monthly interest of 2%. If Mandy was able to pay it after 3 months, how much should she give to Benedict?"
+  },
+  {
+    "row_id": 82,
+    "correct": false,
+    "nla_description": "Structured solution pattern: a mathematical/educational problem with a worked solution, establishing a quantitative scenario about combinations or exponential growth.\n\nThe phrase \"Calculate the number of\" signals a specific example or scenario about a population or inventory problem, likely involving a given number of apples or bacteria.\n\nFinal token \"the initial number of\" begins a concrete numerical example or scenario (\"Calculate the total number of\"), strongly expecting a noun phrase like \"bacteria,\" \"students,\" or \"apples\" to specify a specific scenario. or \"cookies in the box\" or \"pairs/groups.\" or \"deer in each category\" or \"chocolate bars.\" or \"electrons\" or \"half-lives.\" or \".\"",
+    "problem": "Ten stalls have 20 cows each. Mr. Sylas buys 40 cows and divides them equally, putting an equal number of the new cows into each of the twenty stalls. How many cows are in 8 of the stalls?"
+  },
+  {
+    "row_id": 24,
+    "correct": false,
+    "nla_description": "Structured educational pattern: a math problem/solution format explaining a scenario involving time and fraction of toys.\n\nThe phrase \"Mia's initial\" signals a new scenario or step, likely a structured solution or example to analyze a specific situation about equal intervals or running time.\n\nFinal token \"Mia's initial\" begins a noun phrase or label (\"Mia's initial\"), strongly expecting a noun like \"amount,\" \"position,\" or \"money\" to introduce a structured scenario or scenario about the apples. or \"number of tickets\" or \"advantage:\" or \"calculation:\" or \"cookies:\" or \"distance:\" or \"ratio of apples.\" or \"time in the garden is...\" or.\"",
+    "problem": "A company pays each of its employees $600 in a month. The company has a policy of increasing the salaries of each of its employees by 10% of the initial salary every year for those who've stayed in th"
+  },
+  {
+    "row_id": 310,
+    "correct": false,
+    "nla_description": "Educational worksheet/problem format: a structured math problem with a numerical answer, likely involving time calculations or workout durations.\n\nThe phrase \"Determine the total time Vince\" signals a question beginning, likely a specific scenario about a student or athlete's total time spent cycling or studying.\n\nFinal token \"Vince\" opens a noun phrase or question label (\"Total time Vince\"), strongly expecting a noun like \"spent running\" or \"worked\" to begin a question about a hypothetical scenario involving a job or activity. or \"rides\" or \"spent at the pool\" or \"was running.\" or \"spent on the bike.\" or \"and his brother together.\" or \"sleeps before the.\"",
+    "problem": "Vince can staple 30 reports every 15 minutes.  If he was stapling reports from 8:00 AM until 11:00 PM, how many reports did he staple altogether?"
+  },
+  {
+    "row_id": 33,
+    "correct": false,
+    "nla_description": "Structured educational format: a math/financial problem establishing a pattern of calculating costs, likely a price or percentage solution.\n\nThe phrase \"Calculate the total cost of\" signals a numbered list or step-by-step solution, implying a specific item or calculation to find the cost of the concert tickets or supplies.\n\nFinal token \"total cost of\" begins a concrete example or problem statement (\"Calculate the total cost of\"), strongly expecting a noun phrase like \"the apples\" or \"the items purchased\" or \"the first five shirts\" to specify a specific cost category. or \"the paint\" or \"the regular boxes.\" or \"the trip without discounts.\" or \"materials for the buffet.\"",
+    "problem": "Sasha notices that prices for lumber have gone up 50% in the last few months after she bought some lumber. Since she has leftovers, she decides to sell them. She has leftover ten 2 x 4 x 10 boards tha"
+  },
+  {
+    "row_id": 309,
+    "correct": false,
+    "nla_description": "Structured educational answer format: a pedagogical explanation of a mathematical problem, likely a solution or tip about page-per-inch calculations.\n\nThe phrase \"The\" begins a concrete example or scenario, signaling a specific numerical problem about a book or document to illustrate a measurement/scaling task.\n\nFinal token \"The\" opens a noun phrase describing a scenario or example (\"The pixels per inch is...\"), likely starting a problem description like \"The book has...\" or \"printer prints...\" or \"scanner has a magnification factor.\" or \"document is 10 pages.\" or \"book is printed at...\" or \"question states...\" or \"paper has 6 lines per inch.\" or \"phot.\"",
+    "problem": "The book is printed on paper that, when stacked, is 100 pages to the inch. Each paper is printed on both sides, with one page of the book printed on each side. How many pages are in the book, if it is"
+  },
+  {
+    "row_id": 347,
+    "correct": false,
+    "nla_description": "Structured FAQ/educational format established: a formal analytical solution pattern explaining a mathematical problem about finding combinations.\n\nThe opening \"1. Establish the Scenario:\" signals a structured pedagogical breakdown, promising a clear, organized solution to the problem of identifying the missing elements.\n\nFinal token \"1. Initial State:\n\" opens a numbered or bulleted setup step (\"1. Understanding the Situation\n\"), strongly expecting a structured list or visual representation to begin the scenario. or \"\u2022 The dataset has...\" or \"\u2022   \u2022 Initial:...\" or \"\u2022   The car is at...\" or \"\u2022   - Number: X, Y\" or \"\u2022 We have two variables.\" or \"\u2022 The.\"",
+    "problem": "Ellen decided to play a prank on her friend. She got a case of 12 sodas and shook 3 of them up. Then she took 1 unshaken soda for herself and left. Ellen's brother stopped by and took 1 of the shaken "
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "row_id": 269,
+    "correct": false,
+    "nla_description": "Structured educational format: a statistical/analytical problem with a worked solution, establishing a pattern of analyzing data.\n\nThe phrase \"Calculate the pass rate for\" signals a specific example or question about percentage comparisons, likely comparing two groups or subjects to find overall pass rates.\n\nFinal token \"Calculate the pass rate for\" opens a structured list or example scenario (\"Find the pass rate for\"), strongly expecting a noun phrase like \"the first year\" or \"girls\" or \"Company A\" or \"the exam\" to specify a specific group or category whose data is being analyzed. or \"the male class\" or \"each week/semester\" or \"English: 60% and Math.\"",
+    "problem": "Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had "
+  },
+  {
+    "row_id": 366,
+    "correct": false,
+    "nla_description": "Structured educational answer format: a math/algebra problem solution explaining a percentage-based scenario, likely involving tooth extraction or fractions.\n\nThe phrase \"The\" begins a specific problem or clue about a given scenario, signaling a concrete numerical or word-based constraint about a dentist's teeth.\n\nFinal token \"The\" opens a sentence or description of a problem statement (\"Tooth Removal: The\"), strongly expecting a structured explanation or first sentence, likely \"problem states that...\" or \"father has 12...\" or \"sentence says...\" or \"number of people who got a crown is...\" or \"father has three sons.\" or \"text mentions a percentage of teeth pulled.\" or \"first.\"",
+    "problem": "James has 30 teeth. His dentist drills 4 of them and caps 7 more teeth than he drills. What percentage of James' teeth does the dentist fix?"
+  },
+  {
+    "row_id": 273,
+    "correct": false,
+    "nla_description": "Structured solution format: a math problem establishing a word problem about mixture percentages, now solving algebraically.\n\nThe phrase \"Let's define variables:\" signals a formal algebraic setup, establishing a specific variable definition for the three unknowns (coffee, sugar, chocolate).\n\nFinal token \"*\": begins a variable definition list (\"Let:\"), strongly expecting a variable name like \"Let x be the number of pounds of peanuts\" or \"Let C = coffee, S = sugar\" to define the unknowns. or \"Let m = milk\" or \"x = number of apples\" or \"Let B be the amount of bananas.\" or \"Let h = hours\" or \"Let p = peanuts, s.\"",
+    "problem": "Tanya makes a salt scrub from salt, oil, fragrance, citrus zest, and sugar. She makes enough to fill a 10-ounce jar each time. She uses the same amount of citrus zest as fragrance and the same amount "
+  },
+  {
+    "row_id": 121,
+    "correct": false,
+    "nla_description": "Structured educational format: a textbook/answer format explaining financial calculations, signaling a pedagogical solution to a specific problem.\n\nThe phrase \"To find the total interest:\" introduces a numbered step or task, establishing a concrete analytical task about calculating total interest or interest payments on a loan.\n\nFinal token \"total interest:**\" opens a structured solution step (\"Step 1: Calculate the total interest:\"), strongly expecting a numbered or bulleted solution beginning, likely \"The loan pays...\" or \"Calculate the difference between...\" or \"Total interest = $12 \u00d7 3\" or \"Maria multiplies her annual interest by...\" or \"Given loan amount...\" or \"Use the given interest rate.\" or.\"",
+    "problem": "Karan borrowed $3,650 for five months at an interest rate of 10%. She has to pay an equal amount every month. How much does she have to pay per month?"
+  },
+  {
+    "row_id": 150,
+    "correct": false,
+    "nla_description": "Structured mathematical problem format: a pedagogical worksheet with a quantitative puzzle about fruit distribution, establishing a pattern of solving.\n\nThe phrase \"Number of apples eaten by Marin\" signals a specific named example or scenario, likely a list of people or children, establishing a numerical scenario involving a pie or sharing.\n\nFinal token \"Marin\" begins a named person or category in a problem statement (\"Number of apples eaten by Marin\"), strongly expecting a noun phrase like \"a:\" or \"and Lily\" or \" =...\" to specify a named person or group. or \"a =...\" or \"and Sarah\" or \"in the week\" or \"and her brother\" or \"Olivia:...\" or \".\"",
+    "problem": "Marin and his neighbor Nancy each eat 4 apples a day. How many apples do they eat in 30 days?"
+  },
+  {
+    "row_id": 220,
+    "correct": false,
+    "nla_description": "Structured educational problem format: a math/algebra scenario about a savings plan, likely involving percentages or fractions.\n\nThe phrase \"Scenario: James\" signals a pedagogical example or problem setup, implying a specific scenario about a comparison or calculation involving money or friends.\n\nFinal token \"James\" begins a scenario or problem statement (\"James\"), strongly expecting a noun phrase like \"has $10\" or \"has a collection\" to introduce a concrete scenario about the initial situation. or \"James starts...\" or \"has 12 apples\" or \"and Sarah have...\" or \"has money\" or \"owns three shirts.\" or \"is driving.\" or \"has $10 and a loan.\"",
+    "problem": "James needs to get more toys for his doggie shelter. Each dog needs one toy. James currently has 4 toys on hand for 4 dogs, but there are 8 more dogs in the shelter now. After buying the toys, he went"
+  },
+  {
+    "row_id": 272,
+    "correct": false,
+    "nla_description": "Structured analytical/educational format: a math problem establishing a scenario about game time and video consumption.\n\nThe phrase \"Calculate playtime for\" signals a structured solution or calculation task, likely beginning a specific numerical analysis of each child's gaming time or combined games.\n\nFinal token \"Calculate playtime for\" opens a new sentence or scenario (\"Determine time pattern for\"), strongly expecting a noun phrase like \"each game\" or \"the first week\" or \"the three games\" or \"Alice and Bob\" to specify the calculated quantity or scenario. or \"the regular show\" or \"one day\" or \"each child in the full set.\" or \"Book A and remaining DVDs.\" or \".\"",
+    "problem": "A new arcade opens up and Jack decides to play with his 3 friends.  Jack can play a game with 1 quarter for 20 minutes.  Two of his friends are significantly worse than him and can only play half as l"
+  },
+  {
+    "row_id": 105,
+    "correct": false,
+    "nla_description": "Structured solution/answer pattern: a mathematical problem explaining combinations, likely involving balls or marbles, establishing a logical scenario.\n\nThe phrase \"Start with the number of balls:\" signals a pedagogical setup, likely beginning a concrete numerical solution or initial state to solve the problem.\n\nFinal token \"Initial number of balls:\" opens a structured step or scenario label (\"Step 1: Number of balls:\"), expecting a numerical or descriptive starting point, likely \"The team has 12 red and 8 blue\" or \"We begin with...\" or \"Alice has X balls.\" or \"The box starts with...\" or \"Calculate total number of pairs.\" or \"you have 6 pairs.\" or.\"",
+    "problem": "Josh decides to take up juggling to perform at the school talent show a month in the future.  He starts off practicing juggling 3 balls, and slowly gets better adding 1 ball to his juggling act each w"
+  }
+]

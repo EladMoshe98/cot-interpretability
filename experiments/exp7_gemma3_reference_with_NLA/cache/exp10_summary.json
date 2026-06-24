@@ -1,0 +1,11 @@
+{
+  "model": "claude-haiku-4-5-20251001",
+  "n_valid": 58,
+  "n_correct": 28,
+  "accuracy": 0.4827586206896552,
+  "chance": 0.5,
+  "tp": 0,
+  "tn": 28,
+  "fp": 1,
+  "fn": 29
+}

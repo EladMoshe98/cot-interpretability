@@ -1,0 +1,3 @@
+condition,feature,auroc,auroc_shuffled,n_correct,n_total,accuracy
+cot,mean_lp,0.6915946685428394,0.4577305347091933,204,400,0.51
+nocot,mean_lp,0.7151495918619206,0.5808994904885315,32,400,0.08

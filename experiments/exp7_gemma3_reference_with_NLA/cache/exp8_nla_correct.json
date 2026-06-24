@@ -1,0 +1,47 @@
+[
+  {
+    "row_id": 207,
+    "correct": true,
+    "gold_answer": "79",
+    "pred_answer": "79.0",
+    "problem": "Alisa biked 12 miles per hour for 4.5 hours. Stanley biked at 10 miles per hour for 2.5 hours. How many miles did Alisa and Stanley bike in total?",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n1. **Calculate the distance Alisa biked:**\n   Distance = Speed x Time\n   Alisa's distance = 12 miles/hour * 4.5 hours = 54 miles\n\n2. **Calculate the distance Stanley biked:**\n   Distance = Speed x Time\n   Stanley's distance = 10 miles/hour * 2.5 hours ",
+    "nla_description": "Structured educational problem format: a math/physics problem with a solution, likely involving distance, rate, and time calculations.\n\nThe phrase \"Find the distance Alisa\" signals a specific numerical problem beginning, likely involving a distance or percentage calculation to determine how far Alisa travels.\n\nFinal token \"Alisa\" opens a problem statement or question (\"Calculate the distance Alisa\"), strongly expecting a noun phrase like \"walks\" or \"travels\" to specify the scenario about the first person. or \"ran\" or \"needs to cover\" or \"and Bob\" or \"covers in the first leg.\" or \"drives\" or \"has already run.\" or \"gets from.\""
+  },
+  {
+    "row_id": 37,
+    "correct": true,
+    "gold_answer": "27",
+    "pred_answer": "27.0",
+    "problem": "Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n1. **Apples Kael brought:** Kael brought twice the amount of apples as Morisette, who brought 5 apples. So Kael brought 2 * 5 = 10 apples.\n\n2. **Oranges Kael brought:** Kael brought half the number of oranges as Morisette, who brought 8 oranges. So Kae",
+    "nla_description": "Educational math/algebra worksheet format with structured problem-solving context, implying a question about sharing apples among friends.\n\nThe phrase \"Number of apples Ben brought\" signals a first question or scenario, likely a specific example about a quantity or ratio of apples that Ben brought to the picnic.\n\nFinal token \"The apples Ben brought\" opens a structured question or scenario label (\"Number of apples Ben brought\"), likely beginning a numbered or bulleted question about the initial distribution, possibly \" =...\" or \"to the store\" or \"home\" or \"up\" or \" = X\" or \"his share\" or \"and Sarah's\" or \"or half =...\" or \"from the.\""
+  },
+  {
+    "row_id": 16,
+    "correct": true,
+    "gold_answer": "57",
+    "pred_answer": "$57.00",
+    "problem": "Stephen placed an online order for groceries.  His final bill came to $40.00.  Because this was through a delivery vendor, they tacked on a 25% fee to his final total and charged him $3.00 in delivery",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n1. **Calculate the fee:** The delivery vendor added a 25% fee to the $40.00 bill.\n   Fee = 25% of $40.00 = 0.25 * $40.00 = $10.00\n\n2. **Add the fee to the original bill:**\n   Bill with fee = $40.00 + $10.00 = $50.00\n\n3. **Add the delivery fee:**\n   Bil",
+    "nla_description": "Structured educational format: a math problem explaining percentage calculations, establishing a pedagogical pattern of analyzing fees/costs.\n\nThe phrase \"The\" signals a concrete numerical example or scenario, likely a specific problem about a fee or commission, given the example of a rental fee.\n\nFinal token \"The\" opens a new sentence introducing a specific numerical scenario (\"The fee is $10... The\"), strongly expecting a noun phrase like \"broker charges a flat fee\" or \"travel agency charges...\" or \"fee for the tutoring is...\" or \"broker charges 15%.\" or \"example shows...\" or \"storage fee is $X per week.\" or \"insurance company pays a surcharge.\" or.\""
+  },
+  {
+    "row_id": 340,
+    "correct": true,
+    "gold_answer": "300",
+    "pred_answer": "300.0",
+    "problem": "Mr Hezekiah had 20 trucks from his store supplying fertiliser to different farmers in his hometown dispatched for delivery on a particular day. Each truck was carrying 20 tons of fertiliser packed in ",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n1. **Find the number of trucks with mechanical failures:**\n   * A quarter of the trucks had failures: (1/4) * 20 trucks = 5 trucks\n\n2. **Find the number of trucks that successfully delivered fertiliser:**\n   * Total trucks - failed trucks = successful ",
+    "nla_description": "Structured math problem format: a textbook/educational solution pattern with a quantitative puzzle about delivery times and trucks.\n\nThe phrase \"Find the number of trucks\" signals a specific problem statement, likely a numerical or algebraic problem about trucks, implying a solution involving a given number or ratio.\n\nFinal token \"number of trucks\" begins a problem-description phrase (\"Number of trucks\"), likely starting a structured solution or question, possibly \"needed\" or \"in the first row\" or \"that carry coal\" or \"for the second type\" or \"required for the parade.\" or \"at the garage\" or \"used by the blue company.\" or \"with red paint\" or \"per hour.\""
+  },
+  {
+    "row_id": 62,
+    "correct": true,
+    "gold_answer": "50",
+    "pred_answer": "50.0",
+    "problem": "A trader buys some bags of wheat from a farmer at a rate of $20 per bag. If it costs $2 to transport each bag from the farm to the warehouse, and the trader made a total profit of $400 after selling a",
+    "response_text": "\nHere's how to solve the problem step-by-step:\n\n1. **Calculate the total cost per bag:**\n   * Cost of each bag: $20\n   * Transportation cost per bag: $2\n   * Total cost per bag: $20 + $2 = $22\n\n2. **Calculate the profit per bag:**\n   * Selling price per bag: $30\n   * Total cost per bag: $22\n   * Pro",
+    "nla_description": "Structured educational answer format: a math/accounting problem explaining a price calculation, likely a cost or percentage problem.\n\nThe phrase \"Calculate the total cost per\" signals a pedagogical pattern, likely a list or breakdown of a calculation, establishing a structured solution to a pricing problem involving items.\n\nFinal token \"total cost per\" begins a noun phrase or variable definition (\"Cost per\"), strongly expecting a noun like \"week,\" \"month,\" or \"unit\" to specify a calculation or formula about cost of tickets or supplies. or \"box of cookies\" or \"hour for the first type\" or \"shirt for each guest.\" or \"year for combined items.\" or \"dozen, including labor.\""
+  }
+]

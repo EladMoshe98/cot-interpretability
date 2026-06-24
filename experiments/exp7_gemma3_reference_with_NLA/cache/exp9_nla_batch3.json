@@ -1,0 +1,62 @@
+[
+  {
+    "row_id": 248,
+    "correct": false,
+    "nla_description": "Structured analytical/educational format: a mathematical problem about trading cards, likely a scenario involving exchange rates or quantities.\n\nThe phrase \"Number of Comic Books Traded\" signals a specific scenario or constraint, likely a numerical answer or description of the first exchange of cards between children.\n\nFinal token \"Stamps Traded\" opens a structured question or label (\"Number of Bad Stamps Traded\"), strongly expecting a noun phrase or continuation like \"for the First\" or \"by Alice\" or \"in\" to specify the trade or exchange scenario. or \"for Coins\" or \"for Alice's:...\" or \"up\" or \"for the swap\" or \"for the first exchange.\"",
+    "problem": "Lorraine and Colleen are trading stickers for buttons. Each large sticker is worth a large button or three small buttons. A small sticker is worth one small button. A large button is worth three small"
+  },
+  {
+    "row_id": 192,
+    "correct": false,
+    "nla_description": "Structured educational format: a math problem/solution pattern with a geometric scenario about area calculations, likely involving a garden or room.\n\nThe phrase \"Find the area of the\" signals a problem statement, establishing a specific geometric scenario about a composite shape or percentage of paint.\n\nFinal token \"of the\" begins a noun phrase describing a shape or object (\"Area of the...\"), strongly expecting a noun like \"square garden,\" \"rectangle,\" or \"circle\" to specify the figure being analyzed. or \"triangle\" or \"large rectangle\" or \"field\" or \"house\" or \"carpet/wall.\" or \"square and circle\" or \"three triangles.\" or \"given figure.\"",
+    "problem": "Michael is replacing the carpet in his bedroom.\u00a0 The new carpet he's chosen costs $12 per square\u00a0foot, plus $2 per square foot for padding underneath.\u00a0 His contractor charges $4 per square foot to rem"
+  },
+  {
+    "row_id": 281,
+    "correct": false,
+    "nla_description": "Structured educational format: a math/percentage problem with a solution pattern, establishing a price calculation scenario involving discounts and sales.\n\nThe phrase \"Find the reduced price of\" signals a specific numerical answer or example, likely a concrete price calculation or discount scenario to determine the price of a discounted item.\n\nFinal token \"price of\" begins a noun phrase naming a specific item or scenario (\"Find the reduced price of\"), strongly expecting a noun like \"the sweater\" or \"the first pair\" or \"the television\" to specify a sale or discount item. or \"the second shirt\" or \"the discounted chair\" or \"item A after 15% discount.\" or \"shoes during.\"",
+    "problem": "Erika is saving for a new laptop. The laptop she wants costs $600. The sales assistant told her that if she traded in her old laptop, the price of the new one would be reduced by $200. She thinks this"
+  },
+  {
+    "row_id": 133,
+    "correct": false,
+    "nla_description": "Structured educational format: a math problem explaining fractions/percentages, signaling a solution or answer to a word problem.\n\nThe phrase \"1. Initial amount of corn:\" introduces a starting scenario, likely a numerical setup or first step in a problem involving mixed quantities of grain.\n\nFinal token \"Initial amount of corn:**\" opens a structured solution or example step (\"1. Initial amount of corn:\"), strongly expecting a numbered list or concrete scenario like \"The farmer has 120 pounds\" or \"Sarah starts with...\" or \"The farm has X pounds.\" or \"Mr. Jones has...\" or \"The truck has 6 boxes.\" or \"Calculate the half.\" or \"Jane.\"",
+    "problem": "At Allan's house, there is twice as much corn as cannolis. He has a total of 40 cannolis in his house. Allan bought 60 more cannolis at the store and 40 fewer corns than the number of cannolis. Find t"
+  },
+  {
+    "row_id": 134,
+    "correct": false,
+    "nla_description": "Structured educational format: a pedagogical answer explaining a percentage/ratio problem, establishing a pattern of calculating quantities.\n\nThe phrase \"Calculate the total\" signals a numbered step or structured solution beginning, likely a multi-step problem involving a price or inventory calculation.\n\nFinal token \"Calculate the total\" opens a structured solution step or scenario label (\"1. Calculate the total\"), strongly expecting a noun phrase like \"number of items\" or \"cost of the food\" or \"revenue/hours\" to establish a problem context. or \"number of days\" or \"weight of all items.\" or \"calories consumed.\" or \"income of the four friends.\" or \"distance travelled.\" or \"percentage.\"",
+    "problem": "Carolyn works for a delivery service company that hires on a contract basis. In May, they hired 40 employees, paying each employee $15 per hour for a 40-hour workweek. In June, 1/4 of the employees' c"
+  },
+  {
+    "row_id": 280,
+    "correct": false,
+    "nla_description": "Structured educational format: a math problem with a solution/answer section, establishing a quantitative scenario about train travel and work rates.\n\nThe phrase \"Find the speed of one\" signals a specific problem-solving task, likely involving a numerical solution or ratio to determine the number of laps or time.\n\nFinal token \"of one\" begins a noun phrase or problem statement (\"The speed of one\"), strongly expecting a noun like \"car\" or \"bike\" or \"of the two trains\" to specify a specific object or unit of work. or \"rabbit\" or \"brick\" or \"train in the group.\" or \"single marble\" or \"worker per hour.\" or \"orange.\"",
+    "problem": "If it takes 3 kangaroos traveling at the same speed a total of 18 hours to travel across a highway, how many hours will it take four turtles, each traveling at half the speed of a kangaroo, to do so?"
+  },
+  {
+    "row_id": 2,
+    "correct": false,
+    "nla_description": "Structured educational format: a mathematical problem solving example with a formal solution, establishing a financial calculation scenario involving income/taxes.\n\nThe phrase \"Total annual income from\" signals a list or enumeration of income sources, likely identifying specific sources of income for a farmer or investor to calculate earnings.\n\nFinal token \"income from\" opens a noun phrase beginning a structured example or scenario (\"Additional annual income from\"), strongly expecting a noun like \"the bookstore\" or \"salary/rental\" to specify a specific income source. or \"the farm\" or \"investments\" or \"the job.\" or \"the rental house\" or \"the first job.\" or \"salary and commission.\" or \"dairy.\"",
+    "problem": "Carlos is planting a lemon tree. The tree will cost $90 to plant. Each year it will grow 7 lemons, which he can sell for $1.5 each. It costs $3 a year to water and feed the tree. How many years will i"
+  },
+  {
+    "row_id": 359,
+    "correct": false,
+    "nla_description": "Structured educational format: a math problem/solution pattern with a formal answer, likely a textbook or worksheet entry.\n\nThe phrase \"Find the extra length of\" signals a specific numerical problem or example, likely involving a geometric calculation or measurement comparison, possibly involving the two ribbons or the extended length.\n\nFinal token \"extra length of\" begins a problem statement or question label (\"Calculate the extra length of\"), strongly expecting a noun phrase like \"the second fence\" or \"the triangle\" or \"Bob's shirt\" to specify a specific item or scenario. or \"the longer ribbon\" or \"the first cut\" or \"the diagonal\". or \"the rectangle.\" or \"extra time.\"",
+    "problem": "John buys a cassette with 2 songs.  The first song is 5 minutes and the second song is 60% longer.  How much time was the total cassette?"
+  },
+  {
+    "row_id": 198,
+    "correct": false,
+    "nla_description": "Structured educational pattern: a math problem/solution format explaining a scenario involving exponential growth or multiplication.\n\nThe phrase \"Day 1: The\" signals a concrete example or scenario, likely a specific problem involving a number or task that grows daily.\n\nFinal token \"The\" begins a new sentence or example scenario (\"Day 1, the\"), strongly expecting a noun phrase like \"farmer plants a tree\" or \"snail travels X miles\" or \"group starts...\" to introduce a specific scenario about a task or percentage. or \"monkey eats half\" or \"painter paints...\" or \"store has 100 apples.\" or \"rabbit runs...\" or \"temperature drops...\" or \"first.\"",
+    "problem": "Mark plants a beanstalk below his second-story window, which is 20 feet off the ground. The beanstalk doubles its height every day. If the beanstalk starts out 4 feet tall, how many days will it take "
+  },
+  {
+    "row_id": 243,
+    "correct": false,
+    "nla_description": "Structured educational answer format: a formal, pedagogical response explaining probability/combinations, establishing a pattern of solving problems.\n\nThe phrase \"Calculate the total number of\" signals a list or enumeration of possible combinations, likely a specific example of a lottery or election scenario to determine percentage of defective/correct choices.\n\nFinal token \"the total number of\" begins a noun phrase listing a categorical problem statement (\"Total number of\"), strongly expecting a noun like \"students,\" \"items,\" or \"balls\" to specify a combinatorial scenario. or \"students in the group\" or \"possible outcomes.\" or \"shirts/seats.\" or \"animals at the fundraiser.\" or \"weeks/choices.\" or \"total.\"",
+    "problem": "Candy has 15 light blue spools of thread, 45 dark blue spools of thread, 40 light green spools of thread, and 50 dark green spools of thread. What percent of her spools are blue?"
+  }
+]

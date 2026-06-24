@@ -1,0 +1,13 @@
+condition,position,partition,n_shuffles,shuf_mean,shuf_std,t_stat,p_value,real_auroc,verdict
+cot,pos_a,error,20,0.50081,0.03498,0.10103,0.92059,0.76976,OK (p>0.05)
+cot,pos_a,features,20,0.50773,0.042,0.80211,0.43241,0.67721,OK (p>0.05)
+cot,pos_a,reconstructed,20,0.50311,0.03214,0.42124,0.67831,0.67559,OK (p>0.05)
+cot,pos_b,error,20,0.51319,0.03597,1.5986,0.12641,0.66008,OK (p>0.05)
+cot,pos_b,features,20,0.51112,0.03677,1.31782,0.20323,0.63457,OK (p>0.05)
+cot,pos_b,reconstructed,20,0.51649,0.03556,2.021,0.0576,0.64645,OK (p>0.05)
+nocot,pos_a,error,20,0.52578,0.05764,1.95008,0.06608,0.75486,OK (p>0.05)
+nocot,pos_a,features,20,0.51574,0.05857,1.17161,0.25584,0.77667,OK (p>0.05)
+nocot,pos_a,reconstructed,20,0.51214,0.06008,0.88107,0.38929,0.75807,OK (p>0.05)
+nocot,pos_b,error,20,0.50951,0.09285,0.44624,0.66047,0.68402,OK (p>0.05)
+nocot,pos_b,features,20,0.49901,0.07557,-0.05714,0.95503,0.65172,OK (p>0.05)
+nocot,pos_b,reconstructed,20,0.49965,0.06967,-0.02167,0.98294,0.66384,OK (p>0.05)

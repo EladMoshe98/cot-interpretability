@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260620_140644",
+  "n_conditions_exp2": 12,
+  "n_shuffles_exp2": 20,
+  "shuf_mean_all": 0.4946300151821991,
+  "shuf_max_all": 0.5808994904885315,
+  "any_inflation": true,
+  "verdict": "WARNING \u2014 some shuffled AUROCs > 0.55, investigate",
+  "lr_hyperparams": {
+    "C": 0.1,
+    "cv_folds": 5,
+    "solver": "lbfgs",
+    "max_iter": 2000
+  },
+  "cache_dir": "/content/drive/MyDrive/experiments/exp6_shuffled_label_baseline/backup/cache",
+  "figures_dir": "/content/drive/MyDrive/experiments/exp6_shuffled_label_baseline/backup/figures"
+}

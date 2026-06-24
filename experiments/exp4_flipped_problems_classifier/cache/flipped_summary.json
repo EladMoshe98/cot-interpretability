@@ -1,0 +1,98 @@
+{
+  "experiment": "exp4_flipped_problems_classifier",
+  "model": "Gemma-2-2B-IT (google/gemma-2-2b-it)",
+  "dataset": "GSM8K test  n=400  seed=42",
+  "n_total": 400,
+  "n_flipped": 186,
+  "pct_flipped": 0.465,
+  "primary_metric": {
+    "description": "CoT vs NoCoT AUROC on flipped problems",
+    "position": "pos_a",
+    "layer": 12,
+    "auroc": 1.0,
+    "auroc_std": 0.0,
+    "ci_lo_95": 1.0,
+    "ci_hi_95": 1.0,
+    "p_vs_chance": 0.0,
+    "n_boot": 1000
+  },
+  "all_results": [
+    {
+      "position": "pos_a",
+      "layer": 6,
+      "auroc": 1.0,
+      "auroc_std": 0.0,
+      "n_folds": 5,
+      "n_samples": 372,
+      "ci_lo": 1.0,
+      "ci_hi": 1.0,
+      "p_vs_chance": 0.0
+    },
+    {
+      "position": "pos_a",
+      "layer": 12,
+      "auroc": 1.0,
+      "auroc_std": 0.0,
+      "n_folds": 5,
+      "n_samples": 372,
+      "ci_lo": 1.0,
+      "ci_hi": 1.0,
+      "p_vs_chance": 0.0
+    },
+    {
+      "position": "pos_a",
+      "layer": 18,
+      "auroc": 1.0,
+      "auroc_std": 0.0,
+      "n_folds": 5,
+      "n_samples": 372,
+      "ci_lo": 1.0,
+      "ci_hi": 1.0,
+      "p_vs_chance": 0.0
+    },
+    {
+      "position": "pos_b",
+      "layer": 6,
+      "auroc": 1.0,
+      "auroc_std": 0.0,
+      "n_folds": 5,
+      "n_samples": 372,
+      "ci_lo": 1.0,
+      "ci_hi": 1.0,
+      "p_vs_chance": 0.0
+    },
+    {
+      "position": "pos_b",
+      "layer": 12,
+      "auroc": 1.0,
+      "auroc_std": 0.0,
+      "n_folds": 5,
+      "n_samples": 372,
+      "ci_lo": 1.0,
+      "ci_hi": 1.0,
+      "p_vs_chance": 0.0
+    },
+    {
+      "position": "pos_b",
+      "layer": 18,
+      "auroc": 1.0,
+      "auroc_std": 0.0,
+      "n_folds": 5,
+      "n_samples": 372,
+      "ci_lo": 1.0,
+      "ci_hi": 1.0,
+      "p_vs_chance": 0.0
+    }
+  ],
+  "figures": [
+    "figures/fig1_roc_curve.png",
+    "figures/fig2_auroc_grid.png",
+    "figures/fig3_pca_scatter.png",
+    "figures/fig4_sae_top_features.png  (if Exp 2 available)"
+  ],
+  "sae_features": {
+    "auroc": 1.0,
+    "ci_lo": 1.0,
+    "ci_hi": 1.0
+  }
+}

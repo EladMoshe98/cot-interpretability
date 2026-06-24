@@ -1,0 +1,17 @@
+condition,position,partition,auroc
+cot,pos_a,raw,0.7695074265165729
+cot,pos_a,reconstructed,0.6755874765478425
+cot,pos_a,error,0.7697585209505942
+nocot,pos_a,raw,0.7298214065337353
+nocot,pos_a,reconstructed,0.7580666772447595
+nocot,pos_a,error,0.754855344581372
+cot,pos_b,raw,0.6659584115071919
+cot,pos_b,reconstructed,0.6464478580362727
+cot,pos_b,error,0.660077861163227
+nocot,pos_b,raw,0.7357292713457096
+nocot,pos_b,reconstructed,0.6638405528816488
+nocot,pos_b,error,0.6840156203169901
+cot,pos_a,features,0.6772095059412132
+cot,pos_b,features,0.6345650406504064
+nocot,pos_a,features,0.7766682533805822
+nocot,pos_b,features,0.6517224661060277

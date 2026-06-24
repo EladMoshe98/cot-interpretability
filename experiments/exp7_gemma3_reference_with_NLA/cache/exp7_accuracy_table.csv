@@ -1,0 +1,5 @@
+Model,Condition,Accuracy,N_correct,N_total
+Gemma-2-2B,CoT,0.51,204,400
+Gemma-2-2B,NoCoT,0.08,32,400
+Gemma-3-27B,CoT,0.915,366,400
+Gemma-3-27B,NoCoT,0.315,126,400

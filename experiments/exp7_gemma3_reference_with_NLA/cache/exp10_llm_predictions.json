@@ -1,0 +1,466 @@
+[
+  {
+    "row_id": 207,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational problem format: a math/physics problem with a solution, likely involving distance, rate, and time calculations.\n\nThe phrase \"Find the distance Alisa\" signals a specific numerical problem beginning, likely involving a distance or percentage calculation to determine how far Alis"
+  },
+  {
+    "row_id": 37,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Educational math/algebra worksheet format with structured problem-solving context, implying a question about sharing apples among friends.\n\nThe phrase \"Number of apples Ben brought\" signals a first question or scenario, likely a specific example about a quantity or ratio of apples that Ben brought t"
+  },
+  {
+    "row_id": 16,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational format: a math problem explaining percentage calculations, establishing a pedagogical pattern of analyzing fees/costs.\n\nThe phrase \"The\" signals a concrete numerical example or scenario, likely a specific problem about a fee or commission, given the example of a rental fee.\n\nF"
+  },
+  {
+    "row_id": 340,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured math problem format: a textbook/educational solution pattern with a quantitative puzzle about delivery times and trucks.\n\nThe phrase \"Find the number of trucks\" signals a specific problem statement, likely a numerical or algebraic problem about trucks, implying a solution involving a give"
+  },
+  {
+    "row_id": 62,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational answer format: a math/accounting problem explaining a price calculation, likely a cost or percentage problem.\n\nThe phrase \"Calculate the total cost per\" signals a pedagogical pattern, likely a list or breakdown of a calculation, establishing a structured solution to a pricing "
+  },
+  {
+    "row_id": 196,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured problem-solving context: a math/algebra problem about finding a rate or average, likely involving three people or speeds.\n\nThe phrase \"Find the third typing speed\" signals a specific example or scenario beginning, establishing a concrete numerical task involving the three typing speeds gi"
+  },
+  {
+    "row_id": 81,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Educational/mathematical worksheet format: a structured problem with a numerical solution, likely involving a savings or multiplication calculation.\n\nThe phrase \"How many times did Anne\" signals a problem or task beginning, likely a specific number of days or weeks to calculate how frequently Anne r"
+  },
+  {
+    "row_id": 127,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational answer format: a math/algebra problem solution pattern, likely a worksheet or textbook answer about percentage calculations.\n\nThe phrase \"Find how much more\" signals a problem or constraint about a specific numerical comparison, likely a word problem involving a savings goal o"
+  },
+  {
+    "row_id": 163,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational/algebraic format: a formatted answer with a pattern of solving problems, likely a math worksheet or puzzle.\n\nThe phrase \"3 times the\" begins a mathematical expression or equation description, signaling a problem involving three quantities or variables, likely a list or equatio"
+  },
+  {
+    "row_id": 136,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational format: a math/algebra textbook explaining a price calculation, likely a word problem involving percentage discounts or purchases.\n\nThe phrase \"The cost of the\" signals a specific numerical example or problem scenario, establishing a concrete calculation involving items or pur"
+  },
+  {
+    "row_id": 373,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational pattern: a math problem/solution format with a pedagogical example, likely a word problem involving arithmetic or geometric progression.\n\nThe phrase \"Find the number of fish\" introduces a specific numerical scenario, likely a concrete example of fish population or aquarium cou"
+  },
+  {
+    "row_id": 43,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational/numerical pattern: a solution format with a pedagogical explanation, likely a math problem involving overtime calculations.\n\nThe phrase \"Calculate daily work hours:\" signals a structured solution step, establishing a numerical setup or calculation to find overtime hours.\n\nFina"
+  },
+  {
+    "row_id": 335,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational answer format: a formal, pedagogical response explaining probability/combinations, likely a math problem involving election outcomes.\n\nThe phrase \"Calculate the total number of\" signals a list or enumeration of solution methods, establishing a specific numerical example to ana"
+  },
+  {
+    "row_id": 59,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured analytical format: a mathematical/educational solution pattern, answering a time-calculation problem about work rates.\n\nThe phrase \"Calculate the total time for\" signals a specific problem or scenario beginning, likely analyzing a journey or task involving multiple segments or speeds.\n\nFi"
+  },
+  {
+    "row_id": 147,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational answer format: a problem-solving/calculation task explaining temperature changes, likely a chemistry or baking problem.\n\nThe phrase \"1. Find the temperature increase from baking:\" signals a numbered step or first step in the solution, establishing a structured analytical appro"
+  },
+  {
+    "row_id": 326,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Wiki/guide format with structured sections, establishing a Minecraft mining/resource-extraction context about ore processing and mining mechanics.\n\nThe phrase \"A mine yields 100 ore with an iron\" signals a specific example or item description, likely a mining item or tool description about ore extra"
+  },
+  {
+    "row_id": 0,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational problem format: a math/logic puzzle with a scenario about farm animals, likely a sheep farm or wool production.\n\nThe phrase \"Number of Barbara's sheep\" signals a first scenario or example, establishing a specific numerical problem about sheep distribution or population counts."
+  },
+  {
+    "row_id": 298,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured problem format: a mathematical puzzle/word problem with a scenario about cookies, establishing a solution to sharing among three people.\n\nThe phrase \"after husband takes\" signals a specific scenario about the husband's portion, implying a calculation of remaining cookies after the brother"
+  },
+  {
+    "row_id": 389,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured analytical/educational pattern: a problem-solving scenario about plant arrangement, likely a garden or plant list.\n\nThe phrase \"Plants needing a quarter cup\" signals a list or table beginning, establishing a specific example of the plants needing a given amount of fertilizer/water.\n\nFinal"
+  },
+  {
+    "row_id": 108,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational format: a formatted solution/problem set pattern, likely a math or business scenario involving income calculations.\n\nThe phrase \"Calculate daily income from\" signals a specific example or scenario beginning, establishing a numerical problem about earnings or income thresholds "
+  },
+  {
+    "row_id": 10,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured academic/technical textbook format with a problem-solving context, likely a programming course or exam about parallel computation.\n\nThe phrase \"Calculate the runtime on\" signals a new question or example, likely analyzing a specific scenario involving performance or execution time of a pr"
+  },
+  {
+    "row_id": 176,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured answer/solution pattern: a formal analytical response explaining a calculation, likely a scenario involving overtime or billing rates.\n\nThe phrase \"Start with the normal workout hours\" signals a concrete example or step beginning, likely a numerical or conceptual setup to calculate a thre"
+  },
+  {
+    "row_id": 77,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Educational math worksheet/problem format: a structured question about seashells, likely a word problem involving counting or sharing.\n\nThe phrase \"How many shells does Kylie\" signals a question beginning, likely a specific number or scenario about a collection of shells, possibly a gift or challeng"
+  },
+  {
+    "row_id": 274,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational problem format: a mathematical/algebraic solution pattern, likely a school fundraising or charity scenario involving percentages.\n\nThe phrase \"Calculate the amount raised by\" signals a specific numerical answer or scenario about fundraising amounts, implying a structured list "
+  },
+  {
+    "row_id": 266,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational format: a formatted answer with a mathematical/analytical solution, establishing a pattern of solving price calculations.\n\nThe phrase \"Calculate the cost of \" signals a specific numerical problem, likely a concrete example of a purchase or cost calculation involving a percenta"
+  },
+  {
+    "row_id": 209,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Educational math/financial problem format: a structured solution or analysis of a price scenario involving taxi costs and purchases.\n\nThe phrase \"Calculate total cost (Clara\" signals a pedagogical prompt or example, likely a specific scenario about a weekly/monthly expense or a specific person's pur"
+  },
+  {
+    "row_id": 235,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational problem format: a pedagogical lesson/solution post explaining a mathematical puzzle, establishing a formal solution pattern.\n\nThe phrase \"The solution is Gord\" signals a named object or character beginning a specific scenario, likely a named character or object in a fantasy/sc"
+  },
+  {
+    "row_id": 317,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured educational/statistical problem format: a pedagogical solution to a math problem about combinations, likely involving seating or distribution.\n\nThe phrase \"Number of football\" begins a specific example or scenario, signaling a concrete numerical example of a sports-related quantity to ill"
+  },
+  {
+    "row_id": 384,
+    "correct": true,
+    "gold_label": "correct",
+    "pred_label": "incorrect",
+    "llm_correct": false,
+    "nla_description": "Structured FAQ/educational format established: a formal answer pattern explaining a geometric problem, likely a math problem involving combinations or angles.\n\nThe opening \"We\" signals a structured solution explanation, promising a clear, logical solution to the problem about finding the smallest nu"
+  },
+  {
+    "row_id": 360,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured pedagogical format: a technical answer explaining a power/energy calculation, likely a problem involving electricity supply and heating systems.\n\nThe phrase \"Calculate total energy demand\" signals a numbered step or scenario beginning, establishing a structured analytical framework for a "
+  },
+  {
+    "row_id": 248,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured analytical/educational format: a mathematical problem about trading cards, likely a scenario involving exchange rates or quantities.\n\nThe phrase \"Number of Comic Books Traded\" signals a specific scenario or constraint, likely a numerical answer or description of the first exchange of card"
+  },
+  {
+    "row_id": 192,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a math problem/solution pattern with a geometric scenario about area calculations, likely involving a garden or room.\n\nThe phrase \"Find the area of the\" signals a problem statement, establishing a specific geometric scenario about a composite shape or percentage of pai"
+  },
+  {
+    "row_id": 281,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a math/percentage problem with a solution pattern, establishing a price calculation scenario involving discounts and sales.\n\nThe phrase \"Find the reduced price of\" signals a specific numerical answer or example, likely a concrete price calculation or discount scenario "
+  },
+  {
+    "row_id": 133,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a math problem explaining fractions/percentages, signaling a solution or answer to a word problem.\n\nThe phrase \"1. Initial amount of corn:\" introduces a starting scenario, likely a numerical setup or first step in a problem involving mixed quantities of grain.\n\nFinal t"
+  },
+  {
+    "row_id": 134,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a pedagogical answer explaining a percentage/ratio problem, establishing a pattern of calculating quantities.\n\nThe phrase \"Calculate the total\" signals a numbered step or structured solution beginning, likely a multi-step problem involving a price or inventory calculat"
+  },
+  {
+    "row_id": 280,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a math problem with a solution/answer section, establishing a quantitative scenario about train travel and work rates.\n\nThe phrase \"Find the speed of one\" signals a specific problem-solving task, likely involving a numerical solution or ratio to determine the number of"
+  },
+  {
+    "row_id": 2,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a mathematical problem solving example with a formal solution, establishing a financial calculation scenario involving income/taxes.\n\nThe phrase \"Total annual income from\" signals a list or enumeration of income sources, likely identifying specific sources of income fo"
+  },
+  {
+    "row_id": 359,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a math problem/solution pattern with a formal answer, likely a textbook or worksheet entry.\n\nThe phrase \"Find the extra length of\" signals a specific numerical problem or example, likely involving a geometric calculation or measurement comparison, possibly involving th"
+  },
+  {
+    "row_id": 198,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational pattern: a math problem/solution format explaining a scenario involving exponential growth or multiplication.\n\nThe phrase \"Day 1: The\" signals a concrete example or scenario, likely a specific problem involving a number or task that grows daily.\n\nFinal token \"The\" begins a new"
+  },
+  {
+    "row_id": 243,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational answer format: a formal, pedagogical response explaining probability/combinations, establishing a pattern of solving problems.\n\nThe phrase \"Calculate the total number of\" signals a list or enumeration of possible combinations, likely a specific example of a lottery or election"
+  },
+  {
+    "row_id": 180,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Educational grammar textbook format with structured examples, explaining arithmetic problems about class numbers in Singapore/India.\n\nThe phrase \"There were 20\" begins a numerical example or scenario, likely describing a group or class of students, establishing a mathematical calculation about the t"
+  },
+  {
+    "row_id": 254,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational problem format: a math/Arabic textbook solution pattern, likely a word problem involving book quantities.\n\nThe phrase \"How many books Ahmed\" signals a specific scenario or question about a book exchange or donation, implying a numerical answer about a reading challenge or book"
+  },
+  {
+    "row_id": 18,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a mathematical/financial example establishing a pension calculation scenario, likely a worked solution to a retirement calculation.\n\nThe phrase \"Calculate the pension amount for\" signals a concrete example, promising specific numerical results for two components (years"
+  },
+  {
+    "row_id": 61,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured solution format: a mathematical problem with a formula/calculation pattern, establishing a financial calculation for compound interest or loan amounts.\n\nThe phrase \"Calculate the interest\" signals a numbered step or step-by-step calculation, likely beginning a specific calculation to find"
+  },
+  {
+    "row_id": 82,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured solution pattern: a mathematical/educational problem with a worked solution, establishing a quantitative scenario about combinations or exponential growth.\n\nThe phrase \"Calculate the number of\" signals a specific example or scenario about a population or inventory problem, likely involvin"
+  },
+  {
+    "row_id": 24,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational pattern: a math problem/solution format explaining a scenario involving time and fraction of toys.\n\nThe phrase \"Mia's initial\" signals a new scenario or step, likely a structured solution or example to analyze a specific situation about equal intervals or running time.\n\nFinal "
+  },
+  {
+    "row_id": 310,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Educational worksheet/problem format: a structured math problem with a numerical answer, likely involving time calculations or workout durations.\n\nThe phrase \"Determine the total time Vince\" signals a question beginning, likely a specific scenario about a student or athlete's total time spent cyclin"
+  },
+  {
+    "row_id": 33,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a math/financial problem establishing a pattern of calculating costs, likely a price or percentage solution.\n\nThe phrase \"Calculate the total cost of\" signals a numbered list or step-by-step solution, implying a specific item or calculation to find the cost of the conc"
+  },
+  {
+    "row_id": 309,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational answer format: a pedagogical explanation of a mathematical problem, likely a solution or tip about page-per-inch calculations.\n\nThe phrase \"The\" begins a concrete example or scenario, signaling a specific numerical problem about a book or document to illustrate a measurement/s"
+  },
+  {
+    "row_id": 347,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured FAQ/educational format established: a formal analytical solution pattern explaining a mathematical problem about finding combinations.\n\nThe opening \"1. Establish the Scenario:\" signals a structured pedagogical breakdown, promising a clear, organized solution to the problem of identifying "
+  },
+  {
+    "row_id": 269,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational format: a statistical/analytical problem with a worked solution, establishing a pattern of analyzing data.\n\nThe phrase \"Calculate the pass rate for\" signals a specific example or question about percentage comparisons, likely comparing two groups or subjects to find overall pas"
+  },
+  {
+    "row_id": 366,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational answer format: a math/algebra problem solution explaining a percentage-based scenario, likely involving tooth extraction or fractions.\n\nThe phrase \"The\" begins a specific problem or clue about a given scenario, signaling a concrete numerical or word-based constraint about a de"
+  },
+  {
+    "row_id": 273,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured solution format: a math problem establishing a word problem about mixture percentages, now solving algebraically.\n\nThe phrase \"Let's define variables:\" signals a formal algebraic setup, establishing a specific variable definition for the three unknowns (coffee, sugar, chocolate).\n\nFinal t"
+  },
+  {
+    "row_id": 121,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "correct",
+    "llm_correct": false,
+    "nla_description": "Structured educational format: a textbook/answer format explaining financial calculations, signaling a pedagogical solution to a specific problem.\n\nThe phrase \"To find the total interest:\" introduces a numbered step or task, establishing a concrete analytical task about calculating total interest or"
+  },
+  {
+    "row_id": 150,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured mathematical problem format: a pedagogical worksheet with a quantitative puzzle about fruit distribution, establishing a pattern of solving.\n\nThe phrase \"Number of apples eaten by Marin\" signals a specific named example or scenario, likely a list of people or children, establishing a nume"
+  },
+  {
+    "row_id": 220,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured educational problem format: a math/algebra scenario about a savings plan, likely involving percentages or fractions.\n\nThe phrase \"Scenario: James\" signals a pedagogical example or problem setup, implying a specific scenario about a comparison or calculation involving money or friends.\n\nFi"
+  },
+  {
+    "row_id": 272,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured analytical/educational format: a math problem establishing a scenario about game time and video consumption.\n\nThe phrase \"Calculate playtime for\" signals a structured solution or calculation task, likely beginning a specific numerical analysis of each child's gaming time or combined games"
+  },
+  {
+    "row_id": 105,
+    "correct": false,
+    "gold_label": "incorrect",
+    "pred_label": "incorrect",
+    "llm_correct": true,
+    "nla_description": "Structured solution/answer pattern: a mathematical problem explaining combinations, likely involving balls or marbles, establishing a logical scenario.\n\nThe phrase \"Start with the number of balls:\" signals a pedagogical setup, likely beginning a concrete numerical solution or initial state to solve "
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "row_id": 10,
+    "correct": true,
+    "nla_description": "Structured academic/technical textbook format with a problem-solving context, likely a programming course or exam about parallel computation.\n\nThe phrase \"Calculate the runtime on\" signals a new question or example, likely analyzing a specific scenario involving performance or execution time of a program.\n\nFinal token \"execution time on\" begins a specific example or question (\"The running time on\"), strongly expecting a noun phrase like \"the first machine\" or \"the second processor\" or \"one core\" to introduce a concrete scenario about the parallel workload. or \"the original machine\" or \"the four-day DVD\" or \"each processor\" or \"the first two tasks\" or \"average:\" or \"CPU.\"",
+    "problem": "John runs 60 miles a week. He runs 3 days a week.  He runs 3 hours the first day and half as much the other two days he runs.  How fast does he run?"
+  },
+  {
+    "row_id": 176,
+    "correct": true,
+    "nla_description": "Structured answer/solution pattern: a formal analytical response explaining a calculation, likely a scenario involving overtime or billing rates.\n\nThe phrase \"Start with the normal workout hours\" signals a concrete example or step beginning, likely a numerical or conceptual setup to calculate a threshold or percentage.\n\nFinal token \"training hours\" opens a structured step or variable definition (\"Calculate the weekly training hours\"), strongly expecting a specific scenario or question, likely \"per week\" or \"for the month\" or \"hours:\" or \"required:\" or \"for the three days\" or \"of regular pay.\" or \"per week/month\" or \"calculate the difference.\" or \"Jane's total weekly hours.\"",
+    "problem": "After tracking his workout routine for 8 weeks, Josh discovered that he had spent 4 hours working out every week except on some occasions. At one point, he spent 5 hours each for two consecutive weeks"
+  },
+  {
+    "row_id": 77,
+    "correct": true,
+    "nla_description": "Educational math worksheet/problem format: a structured question about seashells, likely a word problem involving counting or sharing.\n\nThe phrase \"How many shells does Kylie\" signals a question beginning, likely a specific number or scenario about a collection of shells, possibly a gift or challenge involving Kylie.\n\nFinal token \"Kylie\" opens a noun phrase or question label (\"How many shells Kylie\"), strongly expecting a noun like \"gave away\" or \"collected\" or \"has\" to begin a problem statement about the number of shells. or \"found\" or \"needs to give...\" or \"collected before the rest.\" or \"has.\" or \"gives.\" or \"gave away.\" or \"found.\"",
+    "problem": "Kylie and Robert enjoy going to the beach to collect shells. On Monday, Kylie collects 5 more shells than Robert, who collects 20 shells. On Tuesday, Kylie collects 2 times more shells than she did on"
+  },
+  {
+    "row_id": 274,
+    "correct": true,
+    "nla_description": "Structured educational problem format: a mathematical/algebraic solution pattern, likely a school fundraising or charity scenario involving percentages.\n\nThe phrase \"Calculate the amount raised by\" signals a specific numerical answer or scenario about fundraising amounts, implying a structured list or calculation of contributions from each item.\n\nFinal token \"the earnings made by\" opens a noun phrase describing a specific fundraising source or group (\"Amount raised by\"), strongly expecting a noun like \"the school,\" \"each class,\" or \"selling cookies\" or \"the car wash\" or \"the junior tickets\" or \"Alice's class\" or \"the three items.\" or \"the raffle in the first half.\" or \"selling chocolate bars.\"",
+    "problem": "Twenty students are working together to raise money for a charity. Each earns the same amount. The charity raises a total of $175,000. $50,000 comes from organizations and the rest from the students. "
+  },
+  {
+    "row_id": 266,
+    "correct": true,
+    "nla_description": "Structured educational format: a formatted answer with a mathematical/analytical solution, establishing a pattern of solving price calculations.\n\nThe phrase \"Calculate the cost of \" signals a specific numerical problem, likely a concrete example of a purchase or cost calculation involving a percentage discount or unit price.\n\nFinal token \" \" begins a numeric example or variable definition (\"Calculate price of \"), strongly expecting a noun phrase like \"12 apples\" or \"the first batch\" to specify a quantity or item. or \"6 shirts\" or \"three boxes\" or \"one gallon of paint\" to establish the scenario of the average number of books. or \"Jane's purchases\" or \"10.\"",
+    "problem": "A loaf of bread at the bakery costs $2. Bagels cost $1 each. How much more do 3 loaves of bread cost than 2 bagels?"
+  },
+  {
+    "row_id": 209,
+    "correct": true,
+    "nla_description": "Educational math/financial problem format: a structured solution or analysis of a price scenario involving taxi costs and purchases.\n\nThe phrase \"Calculate total cost (Clara\" signals a pedagogical prompt or example, likely a specific scenario about a weekly/monthly expense or a specific person's purchase.\n\nFinal token \"Clara\" begins a parenthetical label or example phrase (\"Daily Lesson (Clara\"), strongly expecting a bracketed or parenthetical clarification, likely \"s)\" or \"and Leo\" or \"takes the taxi\" or \"bought\" to specify the scenario. or \"or group\" or \"and her friend\" or \"only\" or \"pays portion\" or \"vs..\"",
+    "problem": "On Tuesday, Clara bought 20 pomegranates at $20 each. At the till she got $2 off because she had a voucher. The next day, the price shot to $30 per fruit, but the store also offered a 10% discount on "
+  },
+  {
+    "row_id": 235,
+    "correct": true,
+    "nla_description": "Structured educational problem format: a pedagogical lesson/solution post explaining a mathematical puzzle, establishing a formal solution pattern.\n\nThe phrase \"The solution is Gord\" signals a named object or character beginning a specific scenario, likely a named character or object in a fantasy/sci-fi context.\n\nFinal token \"Gord\" begins a noun phrase naming a specific object in a problem scenario (\"Use the name of Gord\"), strongly expecting a noun like \"el's car\" or \"Gord's pond\" to introduce a named solution or scenario. or \"Smith's\" or \"the spaceship\" or \"Bob's\" or \"Three-day's gift.\" or \".\"",
+    "problem": "Gissela, Gordy, and Gary are truck drivers.  Gissela has a truck large enough to haul 4,000 pounds of gravel. Gordy's truck can haul 800 pounds more than Gissela's truck.  And when Gary brings his tru"
+  },
+  {
+    "row_id": 317,
+    "correct": true,
+    "nla_description": "Structured educational/statistical problem format: a pedagogical solution to a math problem about combinations, likely involving seating or distribution.\n\nThe phrase \"Number of football\" begins a specific example or scenario, signaling a concrete numerical example of a sports-related quantity to illustrate the problem of total tickets or balls.\n\nFinal token \"number of football\" begins a noun phrase or category label (\"Number of football\"), likely starting a structured list or example, possibly \"footballs\" or \"teams\" or \"players\" to specify a quantity or outcome. or \"matches played\" or \"balls sold\" or \"players in the stadium\" or \"footballs/soccer balls\" or \"week's total.\"",
+    "problem": "In Mr. Roper's class of 30 students, 20% of the class are football players.  Out of the remaining class, 25% of the students are cheerleaders or part of band.  These 3 groups of students will need to "
+  },
+  {
+    "row_id": 384,
+    "correct": true,
+    "nla_description": "Structured FAQ/educational format established: a formal answer pattern explaining a geometric problem, likely a math problem involving combinations or angles.\n\nThe opening \"We\" signals a structured solution explanation, promising a clear, logical solution to the problem about finding the smallest number of intervals.\n\nFinal token \"We\" opens a problem-summary or task statement (\"The problem: We\"), strongly expecting a structured analytical response, likely \"have a rectangle with...\" or \"are given a sequence of prices...\" or \"need to find...\" to establish the scenario. or \"have a rectangle and a rotating angle.\" or \"have a pile of marbles and need to calculate...\" or \"are given a distance and rate.\"",
+    "problem": "Regina wrote 9 novels last year. If this is 3 quarters of the number of novels she has written this year, how many novels has she written this year?"
+  },
+  {
+    "row_id": 360,
+    "correct": false,
+    "nla_description": "Structured pedagogical format: a technical answer explaining a power/energy calculation, likely a problem involving electricity supply and heating systems.\n\nThe phrase \"Calculate total energy demand\" signals a numbered step or scenario beginning, establishing a structured analytical framework for a load-supply scenario.\n\nFinal token \"overall energy demand\" opens a formal problem setup (\"Start with the overall energy demand\"), likely beginning a numbered step or list, possibly \"of the building\" or \"per day\" or \"for the week.\" or \"or supply.\" or \"of the city:\" or \"at peak time.\" or \"for the two appliances.\" or \"in the house.\" or \"demand/percentage.\" or \"from.\"",
+    "problem": "The Hortex company produces bottled carrot juices. Every day it can produce 4200 bottles of these juices. Each juice can cover 20% of 1 person'ts daily energy demand. How many more bottles of juices w"
+  }
+]
