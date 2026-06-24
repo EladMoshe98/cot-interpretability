@@ -1,7 +1,7 @@
 # Do Language Models Actually Reason?
 ## Mechanistic Interpretability of Chain-of-Thought Reasoning in LLMs
 
-**MSc Research Capstone — IE School of Science and Technology, Madrid, 2026**
+**MSc Thesis — IE School of Science and Technology, Madrid, 2026**
 
 ---
 
